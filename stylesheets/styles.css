@@ -31,10 +31,11 @@ h2 {
 h3, h4, h5, h6 {
   color:#494949;
 }
-h1 a { 
+h1 header a { 
   color:#222;
   margin:0 0 20px;	
   font-size:28px;
+  line-height:1.1;
   text-decoration:none; 
 }
 
